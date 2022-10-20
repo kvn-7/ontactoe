@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598096887433",
+    "project_id": "ontactoe-75746",
+    "storage_bucket": "ontactoe-75746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598096887433:android:4d2e2c538150a5cc2f5058",
+        "android_client_info": {
+          "package_name": "com.ontactoe.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598096887433-n59ms2jg1vunn3hc3m74qrfcogugeiid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBky2hFqXp_EiGd4JZnhKPZ48ZlOkfnfos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598096887433-n59ms2jg1vunn3hc3m74qrfcogugeiid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
